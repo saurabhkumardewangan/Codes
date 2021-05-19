@@ -1,5 +1,4 @@
-# Assignment on Text Mining
-# Task 2 - Imdb Reviews
+# Imdb Reviews
 
 # Importing required datasets
 import requests   # Importing requests to extract content from a url
